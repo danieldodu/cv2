@@ -1,0 +1,24 @@
+body {
+  background-color: #E0EBE8;
+}
+h1 {
+      color: #66BFBF;
+      font-weight: lighter;
+}
+h3 {
+      color: #66BFBF;
+      font-weight: lighter;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-width: 5px;
+  border-top-style: dotted;
+  width: 5%;
+}
+/***********Class Selectors****************/
+
+.circular {
+    border-radius: 100%
+}
